@@ -1,0 +1,249 @@
+{
+ "version": 1,
+ "updated": "2026-11-02",
+ "themes": [
+  {
+   "id": "carbon",
+   "type": "image",
+   "name": "Carbono Racing",
+   "desc": "Fibra de carbono con una franja de luz roja. Reloj Orbitron rojo, de estilo deportivo.",
+   "style": {
+    "timeFont": 9,
+    "clockColor": 5,
+    "clockBold": true,
+    "dateFont": 16,
+    "infoFont": 10,
+    "infoColor": 4
+   },
+   "file": "themes/carbon.jpg",
+   "bytes": 89878,
+   "sha256": "027eecfdea5b329f45cc692b1e776d2fcd1bdba909fd1004e366a789753301ff",
+   "thumb": "thumbs/carbon.jpg",
+   "thumbBytes": 17432,
+   "thumbSha256": "d8a36dfc8b607977058ba12e41ed2c9115a22a97d3bf4c5e61cd9582aa1a25ac"
+  },
+  {
+   "id": "synthwave",
+   "type": "image",
+   "name": "Neón Synthwave",
+   "desc": "Sol retro, rejilla de neón y cielo morado. Tipografía futurista en rosa y cian.",
+   "style": {
+    "timeFont": 16,
+    "clockColor": 6,
+    "clockBold": false,
+    "dateFont": 15,
+    "infoFont": 15,
+    "infoColor": 2
+   },
+   "file": "themes/synthwave.jpg",
+   "bytes": 282889,
+   "sha256": "a8d07ffb4753d54832bc44532be3f080d018fa90653e6906703cc768d5e8b971",
+   "thumb": "thumbs/synthwave.jpg",
+   "thumbBytes": 22361,
+   "thumbSha256": "bb010962520788d81cf203f4b503e96422f4eb6a6099af8e8967f719021713b8"
+  },
+  {
+   "id": "hud",
+   "type": "image",
+   "name": "Cockpit HUD",
+   "desc": "Instrumentos circulares sobre azul oscuro, como la pantalla de un auto deportivo.",
+   "style": {
+    "timeFont": 9,
+    "clockColor": 2,
+    "clockBold": false,
+    "dateFont": 9,
+    "infoFont": 11,
+    "infoColor": 2
+   },
+   "file": "themes/hud.jpg",
+   "bytes": 129314,
+   "sha256": "6ad8b4e087a18b598edd82887674181f55cc818ea793f47224f0cd7ff009e510",
+   "thumb": "thumbs/hud.jpg",
+   "thumbBytes": 11476,
+   "thumbSha256": "f94a393cc3748cad87b1239644514693036e473aa5b14e8eaceda9647bfa5ab2"
+  },
+  {
+   "id": "gold",
+   "type": "image",
+   "name": "Lujo Dorado",
+   "desc": "Mármol negro con vetas doradas y tipografía clásica. Elegante y sobrio.",
+   "style": {
+    "timeFont": 17,
+    "clockColor": 4,
+    "clockBold": false,
+    "dateFont": 17,
+    "infoFont": 14,
+    "infoColor": 0
+   },
+   "file": "themes/gold.jpg",
+   "bytes": 250769,
+   "sha256": "801501c7742de0be60846edbd8e697ea6aa29018d000196a7e9ab7d2e8723693",
+   "thumb": "thumbs/gold.jpg",
+   "thumbBytes": 29348,
+   "thumbSha256": "63bd90d9f3bf47e3bc45b2581f2de87746aebaf630e4eb203a89b778cdc7f827"
+  },
+  {
+   "id": "brushed",
+   "type": "image",
+   "name": "Metal Cepillado",
+   "desc": "Aluminio oscuro con un filo de luz cian. Letras finas y limpias.",
+   "style": {
+    "timeFont": 1,
+    "clockColor": 0,
+    "clockBold": false,
+    "dateFont": 2,
+    "infoFont": 2,
+    "infoColor": 0
+   },
+   "file": "themes/brushed.jpg",
+   "bytes": 251290,
+   "sha256": "7f56d7ee1568a1b40cf7fcdc1eef3730b436996082c7d2214274f8e5a8e7ce70",
+   "thumb": "thumbs/brushed.jpg",
+   "thumbBytes": 10985,
+   "thumbSha256": "a62b30347bcba056d80477b2b98c104178daf5cbc3580b620e573f2c2504bb26"
+  },
+  {
+   "id": "aurora",
+   "type": "image",
+   "name": "Aurora Boreal",
+   "desc": "Cielo estrellado con auroras verdes y moradas. Reloj fino en verde menta.",
+   "style": {
+    "timeFont": 1,
+    "clockColor": 3,
+    "clockBold": false,
+    "dateFont": 2,
+    "infoFont": 2,
+    "infoColor": 2
+   },
+   "file": "themes/aurora.jpg",
+   "bytes": 67563,
+   "sha256": "8c8cddd7bd5c66750219e05d0760c50b683c670c32c0a055de86102e630ea245",
+   "thumb": "thumbs/aurora.jpg",
+   "thumbBytes": 9359,
+   "thumbSha256": "bb4418f61186ba3bd58dc1b2234e019123d5734d4f2f8f50496ee93a326292be"
+  },
+  {
+   "id": "roadsunset",
+   "type": "image",
+   "name": "Atardecer en Ruta",
+   "desc": "Carretera al atardecer entre colinas moradas y cielo naranja.",
+   "style": {
+    "timeFont": 11,
+    "clockColor": 1,
+    "clockBold": false,
+    "dateFont": 11,
+    "infoFont": 14,
+    "infoColor": 4
+   },
+   "file": "themes/roadsunset.jpg",
+   "bytes": 51464,
+   "sha256": "f4d9cb02ed538ff7c2c4e33b5c7187e376f11af0cb7248582c7879c2383dc3cf",
+   "thumb": "thumbs/roadsunset.jpg",
+   "thumbBytes": 7301,
+   "thumbSha256": "d3ab3f2eb9e3d74ef47d291cadf6a0f98f3f2f3df62a0314eb79434dfffd78f7"
+  },
+  {
+   "id": "ocean",
+   "type": "image",
+   "name": "Océano Profundo",
+   "desc": "Azules profundos con rayos de luz y burbujas. Tranquilo y fresco.",
+   "style": {
+    "timeFont": 3,
+    "clockColor": 2,
+    "clockBold": false,
+    "dateFont": 2,
+    "infoFont": 2,
+    "infoColor": 7
+   },
+   "file": "themes/ocean.jpg",
+   "bytes": 65595,
+   "sha256": "0ffe0f581313288ea5f1436a6b214ee3c58d615c502267a729615426fe318ae4",
+   "thumb": "thumbs/ocean.jpg",
+   "thumbBytes": 8753,
+   "thumbSha256": "31b3521f23268beeb552999823835bebbf0cb1ba896f3eaf969230918e17a4aa"
+  },
+  {
+   "id": "forest",
+   "type": "image",
+   "name": "Bosque Niebla",
+   "desc": "Pinos entre la niebla bajo la luna. Letras suaves en verde.",
+   "style": {
+    "timeFont": 2,
+    "clockColor": 3,
+    "clockBold": false,
+    "dateFont": 5,
+    "infoFont": 5,
+    "infoColor": 0
+   },
+   "file": "themes/forest.jpg",
+   "bytes": 116830,
+   "sha256": "185be9450b6c1ebca20723746cffe4c8f1c8dfc44461fec60be2aa34ace8650c",
+   "thumb": "thumbs/forest.jpg",
+   "thumbBytes": 14433,
+   "thumbSha256": "c50a2d438dc0a05691f5ad5ecaf80e718e54cedd77db41067c46cb29b9c7cce7"
+  },
+  {
+   "id": "dunes",
+   "type": "image",
+   "name": "Desierto",
+   "desc": "Dunas al atardecer con letras altas y fuertes en naranja. Para aventura.",
+   "style": {
+    "timeFont": 10,
+    "clockColor": 4,
+    "clockBold": true,
+    "dateFont": 11,
+    "infoFont": 11,
+    "infoColor": 0
+   },
+   "file": "themes/dunes.jpg",
+   "bytes": 56927,
+   "sha256": "26ef77354fd8221569764e70af0a1be57343867c4619d29f3a1ea5c56d86eaea",
+   "thumb": "thumbs/dunes.jpg",
+   "thumbBytes": 7076,
+   "thumbSha256": "64274f09aabe25d5c4f9fcbf4b0b26d5d6f5aaf66afd1079d3d060d83bcdec73"
+  },
+  {
+   "id": "citynight",
+   "type": "image",
+   "name": "Noche Urbana",
+   "desc": "Ciudad nocturna con luces desenfocadas. Letras condensadas y modernas.",
+   "style": {
+    "timeFont": 11,
+    "clockColor": 0,
+    "clockBold": false,
+    "dateFont": 11,
+    "infoFont": 11,
+    "infoColor": 1
+   },
+   "file": "themes/citynight.jpg",
+   "bytes": 110072,
+   "sha256": "e852a854b177448c8d59a1fcbd9cd3db39e74b626d468e4fde67889ad42b55d1",
+   "thumb": "thumbs/citynight.jpg",
+   "thumbBytes": 16765,
+   "thumbSha256": "12e60049796640311db6f15d0abf130cd24eca85ecfee68a69f6c58670da2111"
+  },
+  {
+   "id": "roadlive",
+   "type": "video",
+   "name": "Carretera en Movimiento",
+   "desc": "ANIMADO: vas al volante por una carretera de montaña y la calle pasa en movimiento continuo.",
+   "style": {
+    "timeFont": 11,
+    "clockColor": 0,
+    "clockBold": true,
+    "dateFont": 11,
+    "infoFont": 11,
+    "infoColor": 1
+   },
+   "file": "video/roadlive.mp4",
+   "bytes": 780519,
+   "sha256": "7aec5c2f125c8fb3d8a7cba1128933872bde9c07c46fa87219176a795a8a5a2f",
+   "poster": "themes/roadlive.jpg",
+   "posterBytes": 110206,
+   "posterSha256": "8e36a4065d402996dd99870fdceeaefabe640e8d4003fb000e8f9d40784ddf19",
+   "thumb": "thumbs/roadlive.jpg",
+   "thumbBytes": 13839,
+   "thumbSha256": "65d3cb9803066ca3068c55d650fe6a7f55fe4a708b91404bb3c91b8c2c69d096"
+  }
+ ]
+}
