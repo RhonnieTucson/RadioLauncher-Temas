@@ -1,7 +1,100 @@
 {
  "version": 1,
- "updated": "2026-11-02",
+ "release": 2,
+ "updated": "2026-11-06",
  "themes": [
+  {
+   "id": "roadlive",
+   "type": "video",
+   "name": "Carretera en Movimiento",
+   "desc": "Vas al volante por una carretera de montaña y la calle pasa en movimiento continuo.",
+   "style": {
+    "timeFont": 11,
+    "clockColor": 0,
+    "clockBold": true,
+    "dateFont": 11,
+    "infoFont": 11,
+    "infoColor": 1
+   },
+   "file": "video/roadlive.mp4",
+   "bytes": 780519,
+   "sha256": "7aec5c2f125c8fb3d8a7cba1128933872bde9c07c46fa87219176a795a8a5a2f",
+   "poster": "themes/roadlive.jpg",
+   "posterBytes": 110206,
+   "posterSha256": "8e36a4065d402996dd99870fdceeaefabe640e8d4003fb000e8f9d40784ddf19",
+   "thumb": "thumbs/roadlive.jpg",
+   "thumbBytes": 13839,
+   "thumbSha256": "65d3cb9803066ca3068c55d650fe6a7f55fe4a708b91404bb3c91b8c2c69d096"
+  },
+  {
+   "id": "nightdrive",
+   "type": "video",
+   "name": "Noche en la Ciudad",
+   "desc": "Avenida iluminada de noche, con luces de neón y reflejos en el pavimento mojado.",
+   "style": {
+    "timeFont": 9,
+    "clockColor": 2,
+    "clockBold": false,
+    "dateFont": 9,
+    "infoFont": 11,
+    "infoColor": 6
+   },
+   "file": "video/nightdrive.mp4",
+   "bytes": 2532748,
+   "sha256": "bbd436af1ad6eddba17448a56282c73d66b8ed9d90b08eeb611afda7d200b5ab",
+   "poster": "themes/nightdrive.jpg",
+   "posterBytes": 274777,
+   "posterSha256": "066334bcc9bc5b3c55246684012de4fb5c54fe22f812c3747bf13d981f27ec9d",
+   "thumb": "thumbs/nightdrive.jpg",
+   "thumbBytes": 40482,
+   "thumbSha256": "ccb9620eba651031dd07c580c45976274b0333025a2de7366babd5bba515379c"
+  },
+  {
+   "id": "coastdrive",
+   "type": "video",
+   "name": "Ruta de la Costa",
+   "desc": "Carretera junto al mar entre palmeras, con cielo azul y olas turquesa.",
+   "style": {
+    "timeFont": 11,
+    "clockColor": 0,
+    "clockBold": true,
+    "dateFont": 11,
+    "infoFont": 14,
+    "infoColor": 1
+   },
+   "file": "video/coastdrive.mp4",
+   "bytes": 2675209,
+   "sha256": "11d7fdd125551c770b03219e617dd7d2ef454bcbb8a190f245a7a6e1603b968a",
+   "poster": "themes/coastdrive.jpg",
+   "posterBytes": 270613,
+   "posterSha256": "b767ed1a08683a482508352c3a495428b8a4213907e6bbb808aaeb6b00a8b1ad",
+   "thumb": "thumbs/coastdrive.jpg",
+   "thumbBytes": 39887,
+   "thumbSha256": "6484219099c6d8fe1c023e267aee3cf6cdeb8be3a21b30b12278c3551de7b6b7"
+  },
+  {
+   "id": "mountaindrive",
+   "type": "video",
+   "name": "Ruta de Montaña",
+   "desc": "Carretera entre pinos con picos nevados y un lago al fondo.",
+   "style": {
+    "timeFont": 10,
+    "clockColor": 0,
+    "clockBold": true,
+    "dateFont": 11,
+    "infoFont": 11,
+    "infoColor": 2
+   },
+   "file": "video/mountaindrive.mp4",
+   "bytes": 2960116,
+   "sha256": "c59cf2e72e9b2b7b9ef48d9373bb6e2b70b79dcf8553138f36148baf789078bb",
+   "poster": "themes/mountaindrive.jpg",
+   "posterBytes": 279042,
+   "posterSha256": "7a6f02af9f7f22bc07cbeea2e18c881d12bca32d167cf6d0cd1f5a23a1c693e2",
+   "thumb": "thumbs/mountaindrive.jpg",
+   "thumbBytes": 41503,
+   "thumbSha256": "f56f69aa16a241333d35bfe6ef669aa86d5e2dd79ac9f12577d90dd981bc9b2d"
+  },
   {
    "id": "carbon",
    "type": "image",
@@ -221,29 +314,6 @@
    "thumb": "thumbs/citynight.jpg",
    "thumbBytes": 16765,
    "thumbSha256": "12e60049796640311db6f15d0abf130cd24eca85ecfee68a69f6c58670da2111"
-  },
-  {
-   "id": "roadlive",
-   "type": "video",
-   "name": "Carretera en Movimiento",
-   "desc": "ANIMADO: vas al volante por una carretera de montaña y la calle pasa en movimiento continuo.",
-   "style": {
-    "timeFont": 11,
-    "clockColor": 0,
-    "clockBold": true,
-    "dateFont": 11,
-    "infoFont": 11,
-    "infoColor": 1
-   },
-   "file": "video/roadlive.mp4",
-   "bytes": 780519,
-   "sha256": "7aec5c2f125c8fb3d8a7cba1128933872bde9c07c46fa87219176a795a8a5a2f",
-   "poster": "themes/roadlive.jpg",
-   "posterBytes": 110206,
-   "posterSha256": "8e36a4065d402996dd99870fdceeaefabe640e8d4003fb000e8f9d40784ddf19",
-   "thumb": "thumbs/roadlive.jpg",
-   "thumbBytes": 13839,
-   "thumbSha256": "65d3cb9803066ca3068c55d650fe6a7f55fe4a708b91404bb3c91b8c2c69d096"
   }
  ]
 }
